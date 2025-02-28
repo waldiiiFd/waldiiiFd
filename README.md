@@ -19,10 +19,11 @@ Soy estudiante de Ingeniería Informática en la Universidad Tecnológica de La 
         <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a>
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
+
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vsc" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
 ## Estadísticas 📊
  <p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=waldiiiFd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
