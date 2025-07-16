@@ -1,13 +1,13 @@
-# Hola, mi nombre es Waldo Fernández 👋
+# Hello, my name is Waldo Fernández 👋
 
-Soy Ingeniero Informático formado en la Universidad Tecnológica de La Habana (CUJAE).
+I'm a Computer Engineer graduated from the Technological University of Havana (CUJAE).
 
-## Encuéntrame en:
+## Find me on:
 [![Twitter](https://img.shields.io/badge/Twitter-@waldiii_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/waldiii_?t=mPws6zuhGTixEyeCnykl6A&s=08) 
 [![Instagram](https://img.shields.io/badge/Instagram-@waldiii_fd-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/waldiii_fd?utm_source=qr&igsh=MWwwcWZqbzFqeDdzNg==)
 [![Facebook](https://img.shields.io/badge/Facebook-@waldiii_fd-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/share/18PwwRXBK8/)
 
-## Lenguajes y tecnologías conocidas 👨‍💻
+## Known languages and technologies 👨‍💻
 <p align="left">
         <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -24,12 +24,12 @@ Soy Ingeniero Informático formado en la Universidad Tecnológica de La Habana (
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-## Estadísticas 📊
+## Statistics 📊
  <p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=waldiiiFd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=waldiiiFd&theme=tokyonight&hide_border=false"/></p>
 <p align="center"><img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waldiiiFd&theme=tokyonight&hide_border=false" /></p>
 <p align="center"><img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=waldiiiFd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
 
 
-## Contacto 📲
-[![Email](https://img.shields.io/badge/waldo_fernández-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:waldocu02@gmail.com)
+## Contact 📲
+[![Email](https://img.shields.io/badge/waldo_fernández-personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:waldocu02@gmail.com)
