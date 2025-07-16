@@ -1,6 +1,6 @@
 # Hola, mi nombre es Waldo Fernández 👋
 
-Soy estudiante de Ingeniería Informática en la Universidad Tecnológica de La Habana (CUJAE).
+Soy Ingeniero Informático formado en la Universidad Tecnológica de La Habana (CUJAE).
 
 ## Encuéntrame en:
 [![Twitter](https://img.shields.io/badge/Twitter-@waldiii_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/waldiii_?t=mPws6zuhGTixEyeCnykl6A&s=08) 
